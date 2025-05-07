@@ -1,5 +1,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/f934ekg4jj20sen8?svg=true)](https://ci.appveyor.com/project/alexgusarav/ahj-03-event)
 
+ссылка на сборку: https://alexgusarav.github.io/ahj-03-event/
+
 Домашнее задание к занятию "3.Обработка событий"
 Правила сдачи задания:
 
